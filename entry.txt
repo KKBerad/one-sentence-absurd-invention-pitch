@@ -1,0 +1,1 @@
+A toaster that prints your horoscope on the bread: if it says bad luck, it burns the toast for you, so the day can only get better from there.
